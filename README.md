@@ -6,7 +6,7 @@ git commit
 ```
 
 ## Kullanılan Teknolojiler
-> PHP PDO
-> MySQL
+- PHP PDO
+- MySQL
 
 
